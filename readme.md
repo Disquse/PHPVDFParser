@@ -1,10 +1,9 @@
 PHP VDF Parser
 ---
----
 Also knowns as Valve Data Format, Valve Key Values
 Read at official wiki: https://developer.valvesoftware.com/wiki/KeyValues
----
-**Usage example:**
+--
+***Usage example:***
 Let's parse this VDF
 ```
 #base "base1.vdf"
